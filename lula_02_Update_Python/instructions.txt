@@ -1,0 +1,15 @@
+
+
+1.
+sudo apt install vlc
+
+2.
+pip3 install python-vlc
+
+3.
+python3
+
+4.
+>>> import vlc
+>>> p = vlc.MediaPlayer("./05_1_t.mp3")
+>>> p.play()
