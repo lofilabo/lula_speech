@@ -1,3 +1,10 @@
 from playsound import playsound
-file = "single-recording_01__1__2__3.mp3"
+
+file = "zz--001--thinglepingle.mp3"
 playsound(file, True)
+
+file = "zz--002--mmmnnn.mp3"
+playsound(file, True)
+
+
+
